@@ -10,7 +10,7 @@ int main() {
     
     char EstadoC1[1], EstadoC2[1];
     char Codigo_CartaC1[3], Codigo_CartaC2[3];
-    char Nome_CidadeC1[20], Nome_CidadeC2[20];
+    char Nome_CidadeC1[20], Nome_CidadeC2[20];  
     int PopulacaoC1, PopulacaoC2;
     float AreaC1, AreaC2;
     float PibC1, PibC2;
@@ -83,7 +83,7 @@ int main() {
     printf("==============================\n");
     
 return 0;
-} 
+}
 
     
 
